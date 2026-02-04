@@ -18,7 +18,7 @@ public class calculator {
         System.out.println("3. Multiply (*)");
         System.out.println("4. Divide (/)");
 
-        System.out.print("Enter choice (1-4): ");
+        System.out.print(": ");
         int choice = sc.nextInt();
 
         double result = 0;
